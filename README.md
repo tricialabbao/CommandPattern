@@ -8,3 +8,7 @@ Design a system that allows you to control multiple smart home devices with ease
 4. Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details.
 
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
+
+# Command Pattern UML
+UML CLASS DIAGRAM
+![UML DIAGRAM]("CommandPatternUML.png")
